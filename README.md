@@ -1,16 +1,15 @@
-## Hi there 👋
+# Highlights: 
+- 🔭 I’m currently working on [FHIR-Transformation], [Data Secondary Usage], [Nephrology Diseases Progression Modelling]
+- 🌱 I’m currently learning [React]
+<!--- 👯 I’m looking to collaborate on [project/technology]-->
+<!--- 🤔 I’m looking for help with [problem/technology] -->
+- 💬 Ask me about [FHIR]
+<!-- - 📫 How to reach me: [email] -->
 
-<!--
-**alkarkoukly/alkarkoukly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Stats
 
-Here are some ideas to get you started:
+![Alkarkoukly's GitHub stats](https://github-readme-stats.vercel.app/api?username=alkarkoukly&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alkarkoukly&layout=compact&theme=radical)
