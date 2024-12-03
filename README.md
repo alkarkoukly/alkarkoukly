@@ -1,9 +1,10 @@
 # Highlights: 
 - 🔭 I’m currently working on [FHIR-Transformation], [Data Secondary Usage], [Nephrology Diseases Progression Modelling]
 - 🌱 I’m currently learning [React]
+- 💬 Ask me about [FHIR]
+
 <!--- 👯 I’m looking to collaborate on [project/technology]-->
 <!--- 🤔 I’m looking for help with [problem/technology] -->
-- 💬 Ask me about [FHIR]
 <!-- - 📫 How to reach me: [email] -->
 
 ## GitHub Stats
@@ -13,7 +14,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alkarkoukly&layout=compact&theme=dark)
 
 ## GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alkarkoukly&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alkarkoukly&theme=dark)
 ## Visitors:
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=alkarkoukly.alkarkoukly)
 <!-- -## Trophies:
