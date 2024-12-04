@@ -23,3 +23,8 @@
 ## Activity Graph:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alkarkoukly&theme=dark) 
  -->
+## Publications:
+- [Breaking Barriers for Interoperability: A Reference Implementation of CSV-FHIR Transformation Using Open-Source Tools](https://pubmed.ncbi.nlm.nih.gov/37203606/)<br/>
+[![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.3233/SHTI230061)](https://juleskreuer.eu//projects/citation-badge)
+- [An openEHR Virtual Patient Template for Pancreatic Cancer](https://pubmed.ncbi.nlm.nih.gov/34734890/)<br/>
+[![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.3233/SHTI210618)](https://juleskreuer.eu//projects/citation-badge)
