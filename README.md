@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=3b8640&center=true&vCenter=true&width=435&lines=Medical+Data+Scientist;FHIR+Transformation+Expert;Open+Source+Enthusiast;Teaching+AI+in+Medicine" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=3b8640&center=true&vCenter=true&width=600&lines=Medical+Data+Scientist;FHIR+Transformation+Expert;Open+Source+Enthusiast;Teaching+AI+in+Medicine" alt="Typing SVG" width="1200" />
 
 # Highlights: 
 - 🙋‍♂️ Hi, I'm Samer, and I'm a medical informatics expert & physician.
