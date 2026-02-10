@@ -8,22 +8,28 @@
 
 <!--- 👯 I’m looking to collaborate on [project/technology]-->
 <!--- 🤔 I’m looking for help with [problem/technology] -->
-<!-- - 📫 How to reach me: [email] -->
+<!-- - 📫 How to reach me: [email] 
 
 ## GitHub Stats
 ![Alkarkoukly's GitHub stats](https://github-readme-stats.vercel.app/api?username=alkarkoukly&show_icons=true&theme=dark)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alkarkoukly&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alkarkoukly&layout=compact&theme=dark)-->
 
 ## GitHub Streak:
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=alkarkoukly&theme=dark)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alkarkoukly&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alkarkoukly&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alkarkoukly&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alkarkoukly&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alkarkoukly&theme=dark&utcOffset=8)
+
 ## Visitors:
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=alkarkoukly.alkarkoukly)
 
 <img src="https://github.com/alkarkoukly/alkarkoukly/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-
-
 <!-- -  
 ## Trophies:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=alkarkoukly&theme=highcontrast)
